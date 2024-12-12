@@ -1,5 +1,5 @@
 # Project Overview
-This project implements a Python (Python 3.12.4) program that evaluates a given chess board state and determines which black pieces a white piece can capture. The program supports up to 16 black pieces and one white piece, with interactive input for specifying the board configuration.
+This project implements a Python program that evaluates a given chess board state and determines which black pieces a white piece can capture. The program supports up to 16 black pieces and one white piece, with interactive input for specifying the board configuration.
 
 # Features
 ## Interactive Input:
@@ -18,3 +18,5 @@ Supports logic for two white piece types chosen for this project.
 ## Output:
 
 After all inputs are received, the program displays the black pieces that the white piece can potentially take.
+# Tool and version
+Python 3.12.4
