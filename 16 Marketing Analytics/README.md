@@ -28,6 +28,6 @@ Segment analysis by user demographics or purchase behaviors for deeper insights.
 Investigate the impact of marketing content (e.g., email vs. ad) on engagement metrics.
 Explore multi-touch attribution models to assess the influence of campaigns over time.
 # Tools Used:
-SQL: For data extraction and session modeling from BigQuery.
-Power BI: To create dynamic dashboards and detailed visualizations.
-PowerPoint: For presenting findings in a clear and professional format.
+- SQL: For data extraction and session modeling from BigQuery.
+- Power BI: To create dynamic dashboards and detailed visualizations.
+- PowerPoint: For presenting findings in a clear and professional format.
