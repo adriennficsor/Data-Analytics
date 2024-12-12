@@ -32,10 +32,10 @@ Recommended areas for deeper analysis, including tracking trends over time, inco
 # Tools Used:
 Programming language: Python 
 Libraries:
-Pandas (Version: 2.2.2)
-Matplotlib (Version: 3.8.4)
-Seaborn (Version: 0.13.2)
-Plotly Express (Version: 5.22.0)
+- Pandas (Version: 2.2.2)
+- Matplotlib (Version: 3.8.4)
+- Seaborn (Version: 0.13.2)
+- Plotly Express (Version: 5.22.0)
 Dataset: Coursera Course Dataset (from Kaggle)
 # Results:
 
