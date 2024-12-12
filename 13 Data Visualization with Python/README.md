@@ -39,6 +39,6 @@ Libraries:
 Dataset: Coursera Course Dataset (from Kaggle)
 # Results:
 
-Professional certificates are in higher demand
-Higher rating courses attract more students
-Most of the courses are Beginner level
+- Professional certificates are in higher demand
+- Higher rating courses attract more students
+- Most of the courses are Beginner level
